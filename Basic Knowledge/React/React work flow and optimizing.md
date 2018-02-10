@@ -102,6 +102,10 @@
         Although there are more ways of optimizing a React web app, fine tuning the components to update only when required yields the best performance improvement.
 
 **Reference**
+
     1.https://www.toptal.com/react/optimizing-react-performance
+    2.https://marmelab.com/blog/2017/02/06/react-is-slow-react-is-fast.html
+    3.https://medium.freecodecamp.org/make-react-fast-again-tools-and-techniques-for-speeding-up-your-react-app-7ad39d3c1b82
+
     
     
