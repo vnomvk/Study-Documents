@@ -1,6 +1,5 @@
 React performance optimization – Analysis
-  
-       Use higher-order component to wrap their frequently update’s child component. It also avoid unwanted re - render components.
+
 Ref: https://reactjs.org/docs/higher-order-components.html
         Use the map() function to store element first into variable or return function then wrap that in render DOM place. Code like from below reference link.
 Ref: https://reactjs.org/docs/lists-and-keys.html
